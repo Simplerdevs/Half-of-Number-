@@ -1,22 +1,19 @@
-
 #include <iostream>
 using namespace std;
 
-		/* program to ask the user to enter number then print the half of the inputs */
+/* program to ask the user to enter number then print the half of the inputs */
 
 int main()
 
 {
 	int x;
-	cout << " enter a number" << endl;
+	cout << "Enter a number " << endl;
 	cin >> x;
-	cout << "the result is" << endl;
-	cout << x / 2 << endl;
+	cout << "The result = " << x / 2 << endl;
 
 	return 0;
-
-		// created by @ilyes_trabelsi
 	
-	// Note : if you want a half of float number just change type of variable " int" ==> " float" 
 }
 
+	// created by @ilyes_trabelsi
+	// Note : if you want a half of float number just change type of variable " int" ==> " float" 
