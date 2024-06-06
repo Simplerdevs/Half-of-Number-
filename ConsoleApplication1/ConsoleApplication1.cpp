@@ -16,5 +16,7 @@ int main()
 	return 0;
 
 		// created by @ilyes_trabelsi
+	
+	// Note : if you want a half of float number just change type of variable " int" ==> " float" 
 }
 
